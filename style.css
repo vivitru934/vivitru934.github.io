@@ -1,0 +1,14 @@
+.estilo-lindo{
+        background-color: #4CAF50; /*color verde del fondo */
+        color:white; /*Texto blanco */
+        padding: 12px 24px; /*espacio interno del boton*/
+        font-size: 16px; /*tamaño de la letra*/
+        border: none; /*sin borde*/
+        border-radius: 8px;
+        cursor: pointer;  /*manito cuando pase el cursor*/
+        transition: background-color 0.3s;
+    }
+
+    .estilo-lindo{
+        background-color: #45A049;
+    }
